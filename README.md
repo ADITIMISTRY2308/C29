@@ -1,2 +1,2 @@
-# C29
-ANGRY BIRD RUBBER BAND
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
